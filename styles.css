@@ -28,7 +28,7 @@ h1{
 footer{
    
     background-image:url(./imagenes/piePag.png);
-     position: center;
+    position: center;
     height: 90px;
     width: 1020px;
     position: center;
@@ -36,7 +36,7 @@ footer{
     border-radius: 2px solid black;
     margin-top: -30px;
     margin-right: 10px;
-    margin-left: 10px;
+    margin-left: 123px;
 }
 
 
@@ -419,7 +419,7 @@ header{
     height: 70px;
     width: 1020px;
     border:2px solid black;
-   
+    margin-left: 123px;
     margin-top: 30px;
     margin-bottom :-90px;
     border-radius:2px;
