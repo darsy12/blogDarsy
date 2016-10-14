@@ -130,6 +130,7 @@ a{
    border:10px;
    position: absolute;
    display: block;
+   margin-left: 123px;
 }
 
 #contenedorBotones{
