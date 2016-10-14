@@ -149,15 +149,15 @@ a{
 }
 
 #descripcion{
-   display: block;
+ display: block;
    border:2px solid black;
    height:300px;
-   width: 470px;
+   width: 420px;
    background-color: rgba(177, 128, 143, 0.6); 
+   margin-left: 123px;
    margin-right: 400px;
    padding-left: 40px;
-   margin-left: 123px;
-   padding-right: 50px;
+   padding-right: 40px;
    margin-top: 520px;
    float:left;
 }
