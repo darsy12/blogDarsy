@@ -154,15 +154,18 @@ footer{
 #descripcion{
  display: block;
    border:2px solid black;
-   height:300px;
    width: 420px;
    background-color: rgba(177, 128, 143, 0.6); 
    margin-left: 123px;
    margin-right: 400px;
+   margin-bottom: -17px;
    padding-left: 40px;
    padding-right: 40px;
    margin-top: 560px;
    float:left;
+    
+  
+   height:315px;
 }
 
 #piePagina{
