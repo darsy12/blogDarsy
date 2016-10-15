@@ -11,10 +11,10 @@ a:link{
 }
 
 a:hover{
-    color:purple;
-}
-a:visited{
     color:black;
+}
+a{
+   text-decoration:none;
 }
 
 
