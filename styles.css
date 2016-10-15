@@ -1,6 +1,16 @@
 
 /*  estilos genéricos*/
-
+header{
+    position: center;
+    height: 70px;
+    width: 1020px;
+    border:2px solid black;
+    margin-left: 123px;
+    margin-top: 30px;
+    margin-bottom :-90px;
+    border-radius:2px;
+    background-image:url(./imagenes/logofinal.png);
+}
 body{
     background-image: url(./imagenes/fondo.png);
     position:center;
@@ -41,18 +51,7 @@ footer{
 }
 
 
-.enlaces{
-   color:white;
-   text-decoration:none;
-   text-align: center;
-   font-family: cursive;
-   font-size: x-large;
-   padding-bottom: 20px;
-   padding-left: 18px;
-   padding-right:20px;
-   margin-top: auto;
-   margin-bottom: auto;
-}
+
 
 /*  estilos especificos*/
 
@@ -246,7 +245,6 @@ footer{
    padding-right:100px;
    padding-left: 10px;
    margin-left: 10px;
-   
    margin-top: 55px;
    padding-top: 10px;
    border:2px solid white;
@@ -333,9 +331,9 @@ footer{
    height: 415px;
    width: 750px;
    margin-top: 60px;
-   padding-left: 20px;
    float:center;
    display: inline-block;
+   padding-left: 140px;
   
 }
 
@@ -344,7 +342,7 @@ footer{
    height: 400px;
    width: 750px;
    margin-top: 60px;
-   padding-left: 20px;
+   padding-left: 140px;
    float:center;
    display: inline-block;
   
@@ -390,10 +388,7 @@ footer{
     
   
     position: center;
-   
-   
-    margin:auto;
-    
+    margin:auto; 
     height: 60px;
     width: 1020px;
     background-color: rgba(66, 144, 204, 0.8);
@@ -420,16 +415,17 @@ footer{
 }
 
 
-header{
-    position: center;
-    height: 70px;
-    width: 1020px;
-    border:2px solid black;
-    margin-left: 123px;
-    margin-top: 30px;
-    margin-bottom :-90px;
-    border-radius:2px;
-    background-image:url(./imagenes/logofinal.png);
-   
     
+
+.enlaces{
+   color:white;
+   text-decoration:none;
+   text-align: center;
+   font-family: cursive;
+   font-size: x-large;
+   padding-bottom: 20px;
+   padding-left: 18px;
+   padding-right:20px;
+   margin-top: auto;
+   margin-bottom: auto;
 }
