@@ -141,13 +141,14 @@ footer{
    height:200px;
    width: 150px;
    margin-top: 147px;
-   padding-top: 150px;
    margin-left: 123px;
    padding-right: 20px;
    background-color:rgba(177, 128, 143, 0.6); 
    display: block;
    float:left;
    position: absolute;
+   padding-top: 130px;
+   padding-bottom: 24px;
 }
 
 #descripcion{
